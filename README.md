@@ -1,4 +1,4 @@
-- Bonjour, je sm'appelle Kenan Hamzic
+- Bonjour, je m'appelle Kenan Hamzic
 - Je suis intéressé principalement par le développement web
 - J'apprends en ce moment le JavaScript
 - Vous pouvez me joindre à l'adresse suvante : kenan.pro.hamzic@gmail.com
